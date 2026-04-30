@@ -1,0 +1,66 @@
+# CyberCover.co.nz — NZ Cyber Insurance Specialist
+
+## Overview
+CyberCover.co.nz is a specialist cyber insurance comparison and broker referral service for New Zealand businesses of all sizes. Operated by Cover4You, a trading style of GDS (NZ owned and operated).
+
+## Purpose
+Help NZ businesses find the right cyber insurance through licensed broker advice. Core KPI: qualified lead generation via form submissions sent to licensed NZ insurance advisors.
+
+## Key Facts
+- Service type: Broker referral (not an insurer or underwriter)
+- Market: New Zealand only
+- Target: Businesses of all sizes — from sole traders to large enterprises
+- Insurer panel: Chubb, AIG, Zurich, Delta Insurance, QBE, Berkley Insurance
+- Broker fees: May apply on some products — disclosed upfront
+- Form submissions: hello@cover4you.co.nz
+- Regulatory: Financial advice provided by Cover4You, registered financial advice provider (FMCA)
+
+## NZ Cyber Market Context
+- 53% of NZ businesses experienced a cyber incident in 2025
+- Average data breach cost: $173,000 for NZ businesses
+- Only 6% of NZ small businesses have cyber insurance
+- Privacy Act 2020: mandatory breach notification obligations apply to all NZ businesses
+- Ransomware increased 50% globally in 2025
+- BEC (business email compromise) is NZ's most common cyber claim
+
+## Coverage Types
+1. Data Breach Response — forensics, legal, notification, credit monitoring
+2. Ransomware & Cyber Extortion — negotiation, payment (with guidance), restoration
+3. Business Interruption — lost revenue during system downtime
+4. Third-Party Cyber Liability — privacy claims from affected customers
+5. Social Engineering / BEC — invoice fraud, payment diversion, CEO fraud
+6. Regulatory Defence — Privacy Commissioner investigations and fines
+7. Crisis Management — PR, media, brand recovery
+
+## Business Types Covered (19 industry pages)
+small-business, healthcare, legal-firms, accounting-finance, retail-ecommerce, hospitality, construction, education, nonprofits, professional-services, manufacturing, technology, property-management, financial-services, trades, logistics-transport, media-marketing, aged-care, engineering, real-estate
+
+## Insurers Compared
+- Chubb (enterprise, most comprehensive)
+- AIG (CyberEdge, cyber specialist)
+- Zurich (SME and mid-market, NZ-based claims)
+- Delta Insurance (NZ specialist, local expertise)
+- QBE (professional services and trades)
+- Berkley Insurance (technology and professional)
+
+## Site URLs
+- / — Home (lead capture + overview)
+- /coverage/ — Coverage guide (7 coverage types explained)
+- /compare/ — Insurer comparison with feature matrix
+- /businesses/ — Business type index
+- /businesses/[slug]/ — 19 industry-specific pages
+- /blog/ — Cyber insurance articles and guides
+- /blog/[slug]/ — 6 blog posts
+- /about/ — About CyberCover / Cover4You
+- /contact/ — Primary lead capture form
+- /claims/ — Claims process and insurer contacts
+- /privacy/ — Privacy policy
+- /terms/ — Terms of service
+- /disclaimer/ — Referral fee and general advice disclaimer
+
+## Regulatory Bodies
+- Office of the Privacy Commissioner (OPC) — privacy breach notification
+- Financial Markets Authority (FMA) — FMCA licensed advisors
+- Insurance Council of NZ (ICNZ) — Fair Practice standards
+- CERT NZ — cyber threat reporting and guidance
+- FSCL / IFSO — dispute resolution schemes

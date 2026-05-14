@@ -7,10 +7,19 @@ export const metadata: Metadata = {
   title: 'Cyber Insurance NZ | CyberCover.co.nz',
   description: 'Expert cyber insurance advice for New Zealand businesses. Compare policies, get free quotes from licensed NZ brokers. Protect your business from data breaches, ransomware and cyber attacks.',
   metadataBase: new URL('https://cybercover.co.nz'),
-  icons: {
-    icon: '/icon.svg',
-    shortcut: '/icon.svg',
-  },
+    icons: {
+    icon: [
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon-96x96.png', sizes: '96x96', type: 'image/png' },
+    ],
+    shortcut: '/favicon.ico',
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
+    other: [
+      { url: '/android-chrome-192x192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/android-chrome-512x512.png', sizes: '512x512', type: 'image/png' },
+    ],
+  },,
   openGraph: {
     siteName: 'CyberCover.co.nz',
     locale: 'en_NZ',

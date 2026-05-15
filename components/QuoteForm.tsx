@@ -96,7 +96,7 @@ export default function QuoteForm({ compact = false, businessType = '' }: QuoteF
         <textarea name="message" rows={3} placeholder="e.g. specific concerns, data types held, existing security measures..." className="w-full px-4 py-3 border border-slate-300 rounded-lg focus:ring-2 focus:ring-teal-500 focus:border-transparent outline-none transition resize-none" />
       </div>
       <button type="submit" className="w-full py-4 bg-teal-600 text-white font-bold rounded-xl hover:bg-teal-700 transition text-lg">
-        Get My Free Cyber Insurance Quote &rarr;
+        Get My Quote &rarr;
       </button>
       <p className="text-sm text-slate-500 mt-3 text-center">Free advice. No obligation. Licensed NZ brokers respond within 1 business day.</p>
     </form>
